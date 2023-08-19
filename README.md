@@ -1,4 +1,6 @@
-<h2> Hey there! I'm Jhonathan.</h2>
+![Jhonathan Howard Banner](images/banner.png)
+
+<h2> Hey there! I'm Howard.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
