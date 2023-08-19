@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://www.jhonatsz.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jhonatsz.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jhonatsz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jhonathan%20Howard%20Falcutela-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jhonatsz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jhonathan%20Howard-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/jhonatsz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jhonatsz-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jhonatsz@giolosts.co"><img alt="Email" src="https://img.shields.io/badge/Email-jhonathan@giolosts.co-blue?style=flat-square&logo=gmail"></a>
 </p>
