@@ -33,9 +33,10 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=black)
 <br/>
 
+### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/jhonatsz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatsz&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatsz&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonatsz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonatsz&layout=compact&langs_count=8&theme=buefy" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
