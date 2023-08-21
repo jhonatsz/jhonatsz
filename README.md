@@ -18,17 +18,22 @@
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![R (Statistics)](https://img.shields.io/badge/-R-white?style=flat&logo=R&logoColor=276DC3)
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=HTML5)
+<br/>
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-white?style=flat&logo=react)
+<br/>
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=black)
 ![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=black)
 <br/>
+![Ansible](https://img.shields.io/badge/-Ansible-white?style=flat&logo=ansible&logoColor=red)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat&logo=kubernetes)
+![Ruby](https://img.shields.io/badge/-Ruby-white?style=flat&logo=ruby&logoColor=red)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/jhonatsz">
