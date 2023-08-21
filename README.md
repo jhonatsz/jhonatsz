@@ -10,7 +10,7 @@
 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.<br/>
 ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.<br/>
 
-<img alt="Coding" src="images/coding.gif" align="right"/>
+<img alt="Coding" height="180em" src="images/coding-3.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
