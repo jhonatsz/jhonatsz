@@ -43,8 +43,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.jhonatsz.dev"><img src="https://img.shields.io/badge/-www.jhonatsz.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/jhonatsz"><img src="https://img.shields.io/badge/-jhonatsz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jhonathan@giolosts.co"><img src="https://img.shields.io/badge/-jhonatsz@giolosts.co-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jhonatsz"><img src="https://img.shields.io/badge/-jhonatsz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/jhonatsz"><img src="https://img.shields.io/badge/-@jhonatsz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/jhonatsz"><img src="https://img.shields.io/badge/-@jhonatsz-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
