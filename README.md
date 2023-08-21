@@ -21,7 +21,6 @@
 ![Dart](https://img.shields.io/badge/-Dart-white?style=flat&logo=dart&logoColor=blue)
 ![Go](https://img.shields.io/badge/-Go-white?style=flat&logo=go)
 ![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat&logo=typescript)
-<br/>
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js)
