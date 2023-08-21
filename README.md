@@ -14,13 +14,15 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-PHP-white?style=flat&logo=PHP)
+![PHP](https://img.shields.io/badge/-PHP-white?style=flat&logo=PHP)
+![Ruby](https://img.shields.io/badge/-Ruby-white?style=flat&logo=ruby&logoColor=red)
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)
-![R (Statistics)](https://img.shields.io/badge/-R-white?style=flat&logo=R&logoColor=276DC3)
-![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-white?style=flat&logo=dart&logoColor=blue)
+![Go](https://img.shields.io/badge/-Go-white?style=flat&logo=go)
+![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat&logo=typescript)
 <br/>
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-white?style=flat&logo=react)
@@ -31,13 +33,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=black)
 ![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=black)
 <br/>
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat&logo=jenkins&logoColor=red)
 ![Ansible](https://img.shields.io/badge/-Ansible-white?style=flat&logo=ansible&logoColor=red)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat&logo=kubernetes)
-![Ruby](https://img.shields.io/badge/-Ruby-white?style=flat&logo=ruby&logoColor=red)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/jhonatsz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonatsz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonatsz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonatsz&layout=compact&langs_count=8&theme=buefy" />
 </a>
 
