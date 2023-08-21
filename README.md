@@ -25,13 +25,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-white?style=flat&logo=react)
-<br/>
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=black)
 ![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=black)
-<br/>
 ![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat&logo=jenkins&logoColor=red)
 ![Ansible](https://img.shields.io/badge/-Ansible-white?style=flat&logo=ansible&logoColor=red)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat&logo=kubernetes)
