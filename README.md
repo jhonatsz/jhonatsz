@@ -1,17 +1,15 @@
 ![Jhonathan Howard Banner](images/banner.png)
 
-<h2> Hey there! I'm Howard.</h2>
+<img alt="Night Coding" src="images/wave.gif" width='40' align="left"/><h2> Hey there! I'm Howard.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+### 👨🏻‍💻 &nbsp;About Me
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied CoET at Technological University of the Philippines.
 - 💼 &nbsp; Working as a DevOps Engineer at TechStyleOS.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
+### 🛠 &nbsp;Tech Stack
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-PHP-white?style=flat&logo=PHP)
@@ -39,11 +37,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonatsz&layout=compact&langs_count=8&theme=buefy" />
 </a>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.jhonatsz.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jhonatsz.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jhonatsz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jhonathan%20Howard-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/jhonatsz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jhonatsz-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:jhonatsz@giolosts.co"><img alt="Email" src="https://img.shields.io/badge/Email-jhonathan@giolosts.co-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.jhonhoward.com"><img src="https://img.shields.io/badge/-jhonhoward.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jhonatsz"><img src="https://img.shields.io/badge/-Jhonathan%20Howard-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jhonathan@giolosts.co"><img src="https://img.shields.io/badge/-jhonathan@giolosts.co-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/jhonatsz"><img src="https://img.shields.io/badge/-@jhonatsz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/jhonatsz"><img src="https://img.shields.io/badge/-@jhonatsz-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
