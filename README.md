@@ -41,7 +41,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/jhonatsz">
   <img height="192em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonatsz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
-  <img height="192em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonatsz&layout=compact&langs_count=8&theme=buefy" />
+  <img height="192em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonatsz&layout=compact&langs_count=10&theme=buefy" />
 </a>
 </br>
 ### 🤝🏻 &nbsp;Connect with Me
