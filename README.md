@@ -10,9 +10,16 @@
 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.<br/>
 ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.<br/>
 
-<img alt="Coding" height="140em" src="images/coding-3.gif" align="right"/>
+<img alt="Coding" height="160em" src="images/coding-3.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
+![Terraform](https://img.shields.io/badge/-Terraform-white?style=flat&logo=terraform&logoColor=black)
+![Vault](https://img.shields.io/badge/-Vault-white?style=flat&logo=vault&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat&logo=jenkins&logoColor=red)
+![Ansible](https://img.shields.io/badge/-Ansible-white?style=flat&logo=ansible&logoColor=red)
+![K6](https://img.shields.io/badge/-K6-white?style=flat&logo=k6&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-white?style=flat&logo=PHP)
 ![Ruby](https://img.shields.io/badge/-Ruby-white?style=flat&logo=ruby&logoColor=red)
@@ -30,16 +37,13 @@
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=black)
 ![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=black)
-![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat&logo=jenkins&logoColor=red)
-![Ansible](https://img.shields.io/badge/-Ansible-white?style=flat&logo=ansible&logoColor=red)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat&logo=kubernetes)
-
+</br>
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/jhonatsz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonatsz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonatsz&layout=compact&langs_count=8&theme=buefy" />
+  <img height="194em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonatsz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
+  <img height="194em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonatsz&layout=compact&langs_count=8&theme=buefy" />
 </a>
-
+</br>
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.jhonatsz.dev"><img src="https://img.shields.io/badge/-www.jhonatsz.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
